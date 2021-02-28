@@ -11,7 +11,7 @@ const Home = () => {
                     <p>Tudo indica que a raça tenha origem entre 1868 e 1871, da união entre um Retriever de pelo achatado com uma Tweed Water Spaniel, raça atualmente desaparecida.</p>
                 </div>
                 <div>
-                    <h5>Descencência</h5>
+                    <h5>Descendência</h5>
                     <p>Acredita-se também que surgiu do cruzamento com o Terra-Nova e o Setter Islandês. Os Golden foram desenvolvidos na Escócia, com um senhor burguês conhecido como Tweedmouth.</p>
                 </div>
                 <div>
