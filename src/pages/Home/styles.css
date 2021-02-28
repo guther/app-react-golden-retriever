@@ -1,0 +1,22 @@
+.container-home {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -30px;
+}
+.subcontainer-right {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.subcontainer-right h5:before {
+    content: url("bullet-pata.png");
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    .container-home {
+        display: flex;
+        margin-top: 30px;
+    }
+}
