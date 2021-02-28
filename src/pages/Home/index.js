@@ -1,4 +1,4 @@
-import CarouselSlider from "../../Components/Carousel"
+import CarouselSlider from "../../components/Carousel"
 import "./styles.css"
 
 const Home = () => {
